@@ -1,0 +1,6 @@
+artifact_location: file:C:/Users/Maaksharth/Desktop/MLOps Series/Experiment-Tracking-with-ML-Flow/mlruns/636596299347760897
+creation_time: 1767170514167
+experiment_id: '636596299347760897'
+last_update_time: 1767170514167
+lifecycle_stage: active
+name: Wine_Classification_Experiment

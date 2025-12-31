@@ -1,0 +1,10 @@
+artifact_location: file:C:/Users/Maaksharth/Desktop/MLOps Series/Experiment-Tracking-with-ML-Flow/mlruns/636596299347760897/models/m-7238ef49607246f68150f149c4d51cbe/artifacts
+creation_timestamp: 1767170516458
+experiment_id: '636596299347760897'
+last_updated_timestamp: 1767170525183
+model_id: m-7238ef49607246f68150f149c4d51cbe
+model_type: null
+name: random_forest_model
+source_run_id: 2c0fd0d666594f5aa7207df38a410af7
+status: 2
+status_message: null

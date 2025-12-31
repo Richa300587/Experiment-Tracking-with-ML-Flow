@@ -1,0 +1,14 @@
+artifact_uri: file:C:/Users/Maaksharth/Desktop/MLOps Series/Experiment-Tracking-with-ML-Flow/mlruns/636596299347760897/2c0fd0d666594f5aa7207df38a410af7/artifacts
+end_time: 1767170525205
+entry_point_name: ''
+experiment_id: '636596299347760897'
+lifecycle_stage: active
+run_id: 2c0fd0d666594f5aa7207df38a410af7
+run_name: loud-goat-882
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1767170515535
+status: 3
+tags: []
+user_id: Maaksharth
